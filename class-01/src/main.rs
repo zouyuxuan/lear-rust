@@ -3,7 +3,7 @@ pub use crate::print::print_str; // 使用绝对路径加载mod PrintStr
 fn main() {
     // use PrintStr;
     println!("-----------");
-    for  i in 90..97{
+    for  i in 91..97{
         println!("{}",char::from(i));
     }
     println!("-----------");
